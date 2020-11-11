@@ -1,25 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
+      "message": "system log 1 404",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "tech": "John Doe",
+      "date": "2020-11-11T19:17:23.655Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": " Workstation 007 not posting",
+      "message": "system log 2 ",
       "attention": true,
-      "date": "03-04-2019",
-      "tech": "John Doe"
+      "tech": "Sara Wilson",
+      "date": "2020-11-11T19:17:32.818Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
+      "message": "system log 3",
       "attention": false,
-      "date": "03-02-2020",
-      "tech": "Sara Wilson"
+      "tech": "John Doe",
+      "date": "2020-11-11T19:17:42.846Z",
+      "id": 3
     }
   ],
   "techs": [
