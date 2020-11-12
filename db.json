@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "message": "system log 1 404",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2020-11-11T19:17:23.655Z",
-      "id": 1
-    },
-    {
       "message": "system log 2 ",
       "attention": true,
       "tech": "Sara Wilson",
@@ -15,11 +8,18 @@
       "id": 2
     },
     {
-      "message": "system log 3",
+      "message": "fixed 0023333 hard drive",
       "attention": false,
       "tech": "John Doe",
-      "date": "2020-11-11T19:17:42.846Z",
-      "id": 3
+      "date": "2020-11-12T13:44:11.859Z",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "message": "fixed 001 hard drive",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-11-12T13:47:55.882Z"
     }
   ],
   "techs": [
@@ -47,6 +47,11 @@
       "firstName": "Jeniffer",
       "lastName": "Lopez",
       "id": 5
+    },
+    {
+      "firstName": "Berk",
+      "lastName": "Ekincioglu",
+      "id": 7
     }
   ]
 }
